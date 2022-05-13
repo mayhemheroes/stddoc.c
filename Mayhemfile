@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-stddoc-c
+target: stddoc
+
+cmds:
+  - cmd: /repo/stddoc
