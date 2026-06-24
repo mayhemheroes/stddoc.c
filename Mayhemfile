@@ -2,4 +2,4 @@ project: stddoc-c
 target: stddoc
 
 cmds:
-  - cmd: /repo/stddoc
+  - cmd: /stddoc
